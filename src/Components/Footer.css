@@ -1,0 +1,53 @@
+#rect {
+  height: 130px;
+  background-color: rgb(237, 231, 52);
+}
+.sample {
+  text-align: left;
+  margin-left: 200px;
+  padding-top: 30px;
+  font-weight: bolder;
+}
+.button {
+  padding: 10px;
+  width: 150px;
+  font-size: 20px;
+  margin-left: 15px;
+  background-color: black;
+  color: white;
+  box-shadow: 2px 2px 2px white;
+}
+#col_1 {
+  margin-left: 50px;
+}
+.head {
+  margin-top: 50px;
+  text-align: left;
+  margin-left: 30px;
+  font-weight: 700;
+}
+.list > li:hover {
+  text-decoration: underline;
+  cursor: pointer;
+  font-size: 15px;
+}
+.squ {
+  height: 120px;
+  background-color: rgb(54, 55, 56);
+  color: white;
+  text-align: left;
+  font-size: 12px;
+}
+.ind {
+  margin-left: 100px;
+  padding-top: 20px;
+}
+.cond {
+  text-align: right;
+  margin-right: 150px;
+  color: rgb(200, 203, 204);
+  margin-top: -85px;
+}
+.cond:hover {
+  cursor: pointer;
+}

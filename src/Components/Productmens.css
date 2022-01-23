@@ -1,0 +1,93 @@
+.heading {
+  font-size: large;
+  color: blueviolet;
+}
+.maindiv {
+  height: 100%;
+  width: 100%;
+}
+.productHeading {
+  letter-spacing: -4px;
+  font-style: italic;
+  font-weight: 300;
+  font-size: 42px;
+  margin-left: 50px;
+}
+.totalProductsCount {
+  letter-spacing: 4px;
+  color: #767677;
+  font-size: 15px;
+  font-style: normal;
+  margin-left: 15px;
+}
+.buttonsDiv {
+  top: 10px;
+  border-top: 1px solid #eaebec;
+  border-bottom: 1px solid #eaebec;
+  margin-bottom: 10px;
+  position: relative;
+  background-color: white;
+  margin-left: 20px;
+  margin-right: 20px;
+}
+.filterButtons {
+  padding: 12px;
+  margin: 5px;
+  font-size: 15px;
+  background-color: white;
+  border: none;
+}
+.filterButtons:hover {
+  border: 1px solid black;
+  cursor: pointer;
+}
+.display-products {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  cursor: pointer;
+}
+.produ {
+  width: 100%;
+  height: 100%;
+  border: 1px solid black;
+}
+.img123 img {
+  height: 360px;
+  width: 370px;
+}
+.prod {
+  margin-left: 2px;
+  margin-bottom: 40px;
+  margin-top: 20px;
+}
+.prod:hover {
+  border: 1px solid black;
+}
+
+.extrainfo {
+  display: flex;
+  justify-content: center;
+}
+.extra {
+  display: block;
+  padding-right: 6%;
+}
+.details {
+  display: flex;
+}
+.details .imgdiv {
+  flex-grow: 2.6;
+  border: 1px solid black;
+}
+.details .rightdiv {
+  flex-grow: 1;
+  border: 1px solid black;
+}
+button {
+  border: none;
+  font-style: italic;
+  background-color: white;
+  cursor: pointer;
+  font-weight: bold;
+}

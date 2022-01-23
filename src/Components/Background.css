@@ -1,0 +1,106 @@
+.block {
+  background-color: aliceblue;
+  width: 100%;
+  height: 800px;
+}
+.text1 {
+  padding-top: 250px;
+  text-align: left;
+  margin-left: 120px;
+  font-weight: bolder;
+}
+.text2 {
+  text-align: left;
+  margin-left: 120px;
+}
+.tag1 {
+  border: 1px solid aliceblue;
+  float: left;
+  margin-left: 120px;
+  color: black;
+}
+.tag2 {
+  border: 1px solid aliceblue;
+  float: left;
+  margin-left: -82px;
+  margin-top: 6px;
+  color: black;
+}
+.tag3 {
+  border: 1px solid aliceblue;
+  float: left;
+  margin-left: -109px;
+  margin-top: 10px;
+  color: black;
+}
+
+.pop {
+  margin-top: 80px;
+  font-weight: bolder;
+}
+
+.but_back {
+  display: flex;
+  justify-content: center;
+  margin-top: 50px;
+}
+.but_back > button {
+  margin-left: 5px;
+  padding: 10px;
+  background-color: white;
+  border: 1px solid rgb(211, 215, 218);
+  color: black;
+}
+.but_back > button:hover {
+  border: 1px solid black;
+}
+.who {
+  text-align: left;
+  margin-left: 15px;
+  margin-top: 125px;
+  font-weight: bolder;
+  margin-bottom: 15px;
+}
+
+.interest {
+  margin-top: 50px;
+  text-align: left;
+  margin-left: 15px;
+  font-style: italic;
+  font-weight: bolder;
+}
+.anch_1 {
+  float: left;
+  margin-left: 15px;
+  color: black;
+}
+.anch_2 {
+  float: left;
+  margin-left: 35px;
+  color: black;
+}
+#prods {
+  margin-top: 15px;
+}
+.sam_text {
+  text-align: left;
+  margin-left: 18px;
+}
+#txt0 {
+  margin-bottom: 0px;
+}
+#txt1 {
+  margin-bottom: 0px;
+}
+#txt2 {
+  margin-top: 0px;
+  font-size: 13px;
+  color: grey;
+}
+#prods > div:hover {
+  border: 1px solid black;
+  cursor: pointer;
+}
+#mark {
+  text-decoration: line-through red;
+}

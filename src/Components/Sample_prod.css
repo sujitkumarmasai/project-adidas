@@ -1,0 +1,67 @@
+.heading__1 {
+  text-align: left;
+  margin-top: 50px;
+  margin-left: 30px;
+  font-weight: 700;
+}
+.title {
+  text-align: left;
+  margin-left: 5px;
+}
+.para {
+  text-align: left;
+  margin-left: 5px;
+}
+.anc {
+  float: left;
+  margin-left: 5px;
+  color: black;
+}
+#best {
+  text-align: left;
+  margin-left: 25px;
+  margin-top: 50px;
+  font-weight: 700;
+}
+#prods {
+  margin-top: 15px;
+}
+.sam_text {
+  text-align: left;
+  margin-left: 18px;
+}
+#txt0 {
+  margin-bottom: 0px;
+}
+#txt1 {
+  margin-bottom: 0px;
+}
+#txt2 {
+  margin-top: 0px;
+  font-size: 13px;
+  color: grey;
+}
+#prods > div:hover {
+  border: 1px solid black;
+  cursor: pointer;
+}
+#mark {
+  text-decoration: line-through red;
+}
+#base {
+  background-color: rgb(233, 236, 239);
+}
+.head_5 {
+  text-align: left;
+  margin-left: 80px;
+  margin-top: 80px;
+}
+.para_5 {
+  text-align: left;
+  margin-left: 80px;
+  margin-top: 20px;
+  font-size: 15px;
+}
+#para_5 {
+  margin-right: 80px;
+}

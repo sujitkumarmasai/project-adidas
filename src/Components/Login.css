@@ -1,0 +1,61 @@
+.container_log {
+  text-align: left;
+  margin-left: 50px;
+  display: flex;
+  flex-direction: row;
+}
+
+.left_log,
+.right_log {
+  width: 45%;
+}
+
+#email_log,
+#password_log {
+  width: 90%;
+  height: 40px;
+  margin-top: 20px;
+}
+
+.button_log {
+  color: white;
+  background-color: black;
+  width: 30%;
+  height: 40px;
+  margin-top: 10px;
+}
+
+#checkbox_log {
+  margin-top: 20px;
+}
+
+#checkbox1_log {
+  width: 25px;
+  height: 25px;
+  border: 5px solid grey;
+  border-width: 4px;
+}
+
+.img_log {
+  margin-top: 10px;
+  width: 90%;
+  height: 200px;
+}
+
+.lowerDiv_log {
+  height: 100px;
+  background-color: yellow;
+  display: flex;
+  text-align: center;
+  margin-top: 50px;
+  width: 100%;
+}
+
+.lowerDiv_log > h1 {
+  margin-left: 170px;
+}
+
+#signup_log {
+  margin-top: 23px;
+  margin-left: 40px;
+}
